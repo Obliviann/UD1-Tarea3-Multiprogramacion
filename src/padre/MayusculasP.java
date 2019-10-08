@@ -32,5 +32,4 @@ public class MayusculasP {
 			stdinPadre = new Scanner(System.in).nextLine();
 		}
 	}
-
 }
